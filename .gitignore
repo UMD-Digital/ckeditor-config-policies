@@ -1,0 +1,13 @@
+# gitignore
+
+# npm
+/node_modules
+
+# local env and assets
+*.log*
+
+# macOS
+.DS_Store
+
+# local env
+build
